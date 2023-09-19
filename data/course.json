@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "legacy_uid": "6a46862a-a562-c5b5-dc30-4d8a1d865c95",
+  "instructors": {
+    "content": [
+      "d460a9e3-b61d-6666-14c8-1fe0cba90453",
+      "a0f16e50-2187-bc7b-30e2-b96c94485ccb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7d71d428-861c-338a-c395-48927ca96bb6",
+    "website": "2-008-design-and-manufacturing-ii-spring-2004"
+  },
+  "course_title": "Design and Manufacturing II",
+  "course_description": "This course introduces you to modern manufacturing with four areas of emphasis: manufacturing processes, equipment/control, systems, and design for manufacturing. The course exposes you to integration of engineering and management disciplines for determining manufacturing rate, cost, quality and flexibility. Topics include process physics, equipment design and automation/control, quality, design for manufacturing, industrial management, and systems design and operation. Labs are integral parts of the course, and expose you to various manufacturing disciplines and practices.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.008",
+  "course_image_thumbnail": {
+    "content": "bf34bcd4-393b-0427-0df7-354c96810312",
+    "website": "2-008-design-and-manufacturing-ii-spring-2004"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "4c6b60d0-ec58-467f-a071-49cf2d1a7f77",
+  "site_short_id": "2.008-spring-2004",
+  "title": "Course Metadata"
+}
